@@ -1,0 +1,44 @@
+.col-xs-12 {
+
+    margin-top: 40px;
+    margin-bottom: 30px;
+    background-color: grey;
+    min-height: 1000px;
+}
+
+.navbar-default .navbar-collapse {
+
+    background-color: grey;
+}
+
+
+@media(max-width: 767px) {
+    .navbar-default .navbar-collapse {
+
+        background-color: whitesmoke;
+    }
+}
+
+.container-fluid>.navbar-header {
+
+    background-color: grey;
+}
+
+
+.navbar-default .navbar-brand {
+
+    padding-left: 30px;
+    color: black;
+
+}
+
+.container-fluid {
+
+    padding: 0px;
+}
+
+.navbar-default .navbar-nav {
+
+    text-align: center;
+
+}
