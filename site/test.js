@@ -1,8 +1,5 @@
-var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+(function () {
 
-for (var i = 0; i < names.length; i++) {
-
-
-    console.log(names[i].charAt(0).toLowerCase());
-
-}
+    console.log("Hello");
+    console.log();
+}());
